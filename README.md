@@ -1,2 +1,3 @@
 # ASFbP2T2B
-A Security Factor by Passage Through The Black Box
+
+![Diagram](https://github.com/abstract-security-infrastructure/ASFbP2T2B/blob/main/diagrams/TheConcept.svg)
